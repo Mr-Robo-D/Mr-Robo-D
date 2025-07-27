@@ -7,9 +7,10 @@ Desenvolvedor Back-end Multiplataforma | Kotlin, Java, Python, Cloud & IoT
 
 ## 👋 Sobre Mim
 
-Sou estudante do 6º semestre de Desenvolvimento de Software pela **FATEC**. Minha trajetória começou com manutenção de computadores e celulares, o que me proporcionou uma base sólida sobre hardware, software e usabilidade — e hoje aplico esse conhecimento ao desenvolvimento de soluções robustas, interoperáveis e escaláveis.
-
-Atualmente, atuo como desenvolvedor full-stack com foco em back-end e arquitetura multiplataforma, explorando tecnologias Cloud, DevOps, Data Science e IoT.
+Estou em transição de carreira, mas já caminhando para formação CST em Desenvolvimento de Software
+Multiplataforma, buscando oportunidade como Desenvolvedor Júnior Full-Stack ou Estágio. Possuo
+conhecimentos em diversas linguagens de programação, frameworks e tecnologias de nuvem, além de
+experiência prática como Técnico de Informática.
 
 ---
 
@@ -31,7 +32,6 @@ Atualmente, atuo como desenvolvedor full-stack com foco em back-end e arquitetur
 ## 📚 Formação Acadêmica
 
 🎓 **FATEC** – CST em Desenvolvimento de Software Multiplataforma *(Cursando)*  
-🎓 **UNINOVE** – CST em Redes de Computadores *(Curso incompleto)*
 
 ---
 
