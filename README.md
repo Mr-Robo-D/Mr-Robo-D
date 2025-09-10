@@ -8,7 +8,7 @@ Desenvolvedor Back-end Multiplataforma | Kotlin, Java, Python, Cloud & IoT
 ## 👋 Sobre Mim
 
 Estou em transição de carreira, mas já caminhando para formação CST em Desenvolvimento de Software
-Multiplataforma, buscando oportunidade como Desenvolvedor Júnior Full-Stack ou Estágio. Possuo
+Multiplataforma pela FATEC, buscando oportunidade como Desenvolvedor Júnior Full-Stack ou Estágio. Possuo
 conhecimentos em diversas linguagens de programação, frameworks e tecnologias de nuvem, além de
 experiência prática como Técnico de Informática.
 
@@ -64,5 +64,5 @@ Confira alguns dos projetos acadêmicos e profissionais que desenvolvi com foco 
 ## 📫 Contato
 
 📧 Email: danilo.lima60@fatec.sp.gov.br  
-💼 [LinkedIn](https://www.linkedin.com/in/danilo-lima-dev)  
+💼 [LinkedIn](https://www.linkedin.com/in/danilo-lima-740165123)  
 🏅 [Credly](https://www.credly.com/users/danilo-lima/badges)
