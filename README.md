@@ -65,4 +65,4 @@ Confira alguns dos projetos acadêmicos e profissionais que desenvolvi com foco 
 
 📧 Email: danilo.lima60@fatec.sp.gov.br  
 💼 [LinkedIn](https://www.linkedin.com/in/danilo-lima-740165123)  
-🏅 [Credly](https://www.credly.com/users/danilo-lima/badges)
+🏅 [Credly](https://www.credly.com/users/danilo-lima.c5d77b2c/badges)
